@@ -1,0 +1,16 @@
+{
+  "batch_sizes": [
+    1,
+    8,
+    32,
+    64
+  ],
+  "seq_lengths": [
+    128,
+    512,
+    1024,
+    2048
+  ],
+  "num_warmup": 5,
+  "num_iterations": 20
+}
